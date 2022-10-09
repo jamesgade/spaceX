@@ -1,6 +1,6 @@
 # spaceX
 spaceX website
-### [Live Demo jamesleaf/SpaceX](https://space-x-bice.vercel.app)
+### [Live Demo](https://space-x-bice.vercel.app)
 
 
 Here's a screenshot of the Home page
